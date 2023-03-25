@@ -1,2 +1,2 @@
 # tedxdavv
-code for thebwebsite
+code for the website
